@@ -1,14 +1,17 @@
-# NUS CS1101s SICP JavaScript 描述
+# NUS CS1101S：SICP JavaScript 描述
 
 ![](cover.jpg)
 
-> 原文：[https://sicp.comp.nus.edu.sg/index.html](https://sicp.comp.nus.edu.sg/index.html)
+> 原文：[SICP JavaScript](https://sourceacademy.org/sicpjs)
 > 
-> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 如果你交给某人一个程序，你将折磨他一整天；如果你教某人如何编写程序，你将折磨他一辈子。——David Leinweber
 
 * [在线阅读](https://sicp-js.flygon.net)
+
 ## 下载
 
 ### Docker
